@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,iBACE,kBACF,CAEA,YACE,oBAAqB,CACrB,kBACF,CAEA,uBACE,QACF","file":"style.1e464141.css","sourceRoot":"..\\src","sourcesContent":["/* styles go here */\n\n.block-questions {\n  margin-bottom: 20px;\n}\n\n.form-field {\n  display: inline-block;\n  margin-bottom: 10px;\n}\n\n.form-field:last-child {\n  margin: 0;\n}\n"]}
