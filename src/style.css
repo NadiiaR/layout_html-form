@@ -1,26 +1,14 @@
 /* styles go here */
 
-body {
-  margin: 0;
+.block-questions {
+  margin-bottom: 20px;
 }
 
 .form-field {
-  display: block;
-  margin: 20px 10px;
-  font: 1rem "Fira Sans", sans-serif;
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
-legend {
-  /* background-color: #000;
-  color: #fff; */
-  padding: 3px 6px;
-  font: bold 1em sans-serif;
-}
-
-.output {
-  font: 1rem "Fira Sans", sans-serif;
-}
-
-input {
+.form-field:last-child {
   margin: 0;
 }
